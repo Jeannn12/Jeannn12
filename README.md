@@ -10,3 +10,5 @@ Meu nome é Jean
 ### Você pode entrar em contato comigo 📫
 
 jean.oliveira.nascimento@escola.pr.gov.br
+
+https://media.tenor.com/dSAPMCictMQAAAAC/naruto.gif
