@@ -3,7 +3,6 @@
 Meu nome é Jean
 
 - Estou estudando na [Alura](https://www.alura.com.br)
-- Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -11,4 +10,6 @@ Meu nome é Jean
 
 jean.oliveira.nascimento@escola.pr.gov.br
 
-https://media.tenor.com/dSAPMCictMQAAAAC/naruto.gif
+@Jeannn12
+
+![](https://media.tenor.com/dSAPMCictMQAAAAC/naruto.gif)
