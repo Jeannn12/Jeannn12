@@ -10,6 +10,4 @@ Meu nome é Jean
 
 jean.oliveira.nascimento@escola.pr.gov.br
 
-@Jeannn12
-
 ![](https://media.tenor.com/dSAPMCictMQAAAAC/naruto.gif)
